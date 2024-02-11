@@ -4,11 +4,6 @@
 }
 </style>
 
-作者：小辣椒高效Office
-链接：https://www.zhihu.com/question/33565286/answer/2563696833
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 <!--
 **shishikami/shishikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
