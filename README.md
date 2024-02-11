@@ -30,7 +30,7 @@ I'm **shishikami**, a **software engineering student**.
 
 ##### Frameworks
 <div>
-  <img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=vuedotjs&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/SpringBoot-15312e?style=flat&logo=springboot&logoColor=%236DB33F" />
+  <img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=vuedotjs&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/SpringBoot-15312e?style=flat&logo=springboot&logoColor=%236DB33F" />
 </div>
 
 ##### Enviroment
@@ -40,7 +40,7 @@ I'm **shishikami**, a **software engineering student**.
 
 ##### Databases
 <div>
-  <img src="https://img.shields.io/badge/MySQL-F3F9F3?style=flat&logo=mysql&logoColor=%23339933" /><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch" /><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-F3F9F3?style=flat&logo=mysql&logoColor=%23339933" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
 </div>
 
 ###  Projects
