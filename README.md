@@ -1,3 +1,14 @@
+<style>
+.seperate img {
+  margin-right:10px;
+}
+</style>
+
+作者：小辣椒高效Office
+链接：https://www.zhihu.com/question/33565286/answer/2563696833
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 <!--
 **shishikami/shishikami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,16 +35,24 @@ I'm **shishikami**, a **software engineering student**.
 
 ### Skills
 ##### Languages
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+<div class="seperate">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+</div>
 
 ##### Frameworks
-<img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=vuedotjs&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/SpringBoot-15312e?style=flat&logo=springboot&logoColor=%236DB33F" />
+<div class="seperate">
+  <img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=vuedotjs&logoColor=%234FC08D" /><img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/SpringBoot-15312e?style=flat&logo=springboot&logoColor=%236DB33F" />
+</div>
 
 ##### Enviroment
-<img src="https://img.shields.io/badge/Node.js-15312e?style=flat&logo=nodedotjs&logoColor=%23339933" />
+<div class="seperate">
+  <img src="https://img.shields.io/badge/Node.js-15312e?style=flat&logo=nodedotjs&logoColor=%23339933" />
+</div>
 
 ##### Databases
-<img src="https://img.shields.io/badge/MySQL-F3F9F3?style=flat&logo=mysql&logoColor=%23339933" /><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch" /><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+<div class="seperate">
+  <img src="https://img.shields.io/badge/MySQL-F3F9F3?style=flat&logo=mysql&logoColor=%23339933" /><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch" /><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+</div>
 
 ###  Projects
 <div align="center">
