@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <sub><b>LANGUAGES</b></sub>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,cpp&amp;theme=dark&amp;perline=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Ccpp&amp;theme=dark&amp;perline=4" />
     <img src="https://skillicons.dev/icons?i=js,ts,py,cpp&amp;theme=light&amp;perline=4" width="276" alt="JavaScript, TypeScript, Python, C++" />
   </picture>
 </p>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <sub><b>WEB &amp; FRAMEWORKS</b></sub>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,spring&amp;theme=dark&amp;perline=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Creact%2Cvue%2Cnodejs%2Cspring&amp;theme=dark&amp;perline=6" />
     <img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,spring&amp;theme=light&amp;perline=6" width="420" alt="HTML, CSS, React, Vue, Node.js, Spring Boot" />
   </picture>
 </p>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <sub><b>DATA &amp; STORAGE</b></sub>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,redis,elasticsearch,sqlite&amp;theme=dark&amp;perline=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Credis%2Celasticsearch%2Csqlite&amp;theme=dark&amp;perline=4" />
     <img src="https://skillicons.dev/icons?i=mysql,redis,elasticsearch,sqlite&amp;theme=light&amp;perline=4" width="276" alt="MySQL, Redis, Elasticsearch, SQLite" />
   </picture>
 </p>
