@@ -14,36 +14,36 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
-### Hi there 👋
-I'm **shishikami**, a **software engineering student**.
-- 🌱 I’m currently learning React and Rust
-- 💬 Ask me about anything~
-- 📫 How to reach me: 2428076728@qq.com
-- ⚡ Fun fact: coding
+### 🧩 Tech Stack
 
+<p align="center">
+  <sub><b>LANGUAGES</b></sub>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,cpp&amp;theme=dark&amp;perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp&amp;theme=light&amp;perline=4" width="276" alt="JavaScript, TypeScript, Python, C++" />
+  </picture>
+</p>
 
-### Skills
-##### Languages
-<div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-</div>
+<p align="center">
+  <sub><b>WEB &amp; FRAMEWORKS</b></sub>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,spring&amp;theme=dark&amp;perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,spring&amp;theme=light&amp;perline=6" width="420" alt="HTML, CSS, React, Vue, Node.js, Spring Boot" />
+  </picture>
+</p>
 
-##### Frameworks
-<div>
-  <img src="https://img.shields.io/badge/Vue-35495e?style=flat&logo=vuedotjs&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/SpringBoot-15312e?style=flat&logo=springboot&logoColor=%236DB33F" />
-</div>
+<p align="center">
+  <sub><b>DATA &amp; STORAGE</b></sub>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,redis,elasticsearch,sqlite&amp;theme=dark&amp;perline=4" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,elasticsearch,sqlite&amp;theme=light&amp;perline=4" width="276" alt="MySQL, Redis, Elasticsearch, SQLite" />
+  </picture>
+</p>
 
-##### Enviroment
-<div>
-  <img src="https://img.shields.io/badge/Node.js-15312e?style=flat&logo=nodedotjs&logoColor=%23339933" />
-</div>
-
-##### Databases
-<div>
-  <img src="https://img.shields.io/badge/MySQL-F3F9F3?style=flat&logo=mysql&logoColor=%23339933" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-</div>
-
-###  Projects
+### 📊 Language Stats
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishikami&layout=compact" />
 </div>
@@ -54,3 +54,4 @@ I'm **shishikami**, a **software engineering student**.
 <div align="center">
   <img src="./assets/activity.svg" width="100%" alt="GitHub contribution snake animation. Contribution data snapshot from 2026-10-21 UTC." />
 </div>
+
