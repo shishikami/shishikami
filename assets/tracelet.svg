@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="252" viewBox="0 0 1200 252" role="img" aria-labelledby="title">
+<title id="title">Tracelet — Privacy-first browser analytics SDK with typed events, durable queues and replaceable transports. TypeScript / IndexedDB / npm.</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e34"/><stop offset="1" stop-color="#090f1c"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7894b2" stroke-opacity=".07"/></pattern>
+</defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+<rect x="1" y="1" width="1198" height="250" rx="22" fill="url(#bg)" stroke="#26374f"/>
+
+<text x="36" y="40" fill="#5eead4" font-size="14" letter-spacing="2" class="mono">01 / BROWSER SDK</text>
+<text x="36" y="94" fill="#f0f6fc" font-size="40" font-weight="650" letter-spacing="-1">Tracelet</text>
+<text x="36" y="134" fill="#b3c6dc" font-size="21">Privacy-first analytics. Your backend, your rules.</text>
+<text x="36" y="168" fill="#819bb6" font-size="18">Typed events · durable queues · replaceable transports</text>
+<path d="M1140 35h19v19 M1137 57l22-22" stroke="#7d9cb7" stroke-width="2" fill="none"/>
+<g transform="translate(755 66)">
+  <rect x="0" y="0" width="356" height="132" rx="12" fill="#0a1423" stroke="#294057"/>
+  <text x="20" y="31" fill="#7995b1" font-size="13" class="mono">EVENT DELIVERY PIPELINE</text>
+  <path d="M89 75H152 M212 75H276" stroke="#3d7c84" stroke-width="2" stroke-dasharray="4 5"/>
+  <g fill="#142d3a" stroke="#3b7d84"><rect x="20" y="55" width="70" height="40" rx="7"/><rect x="143" y="55" width="70" height="40" rx="7"/><rect x="265" y="55" width="70" height="40" rx="7"/></g>
+  <g fill="#b0efe6" font-size="13" text-anchor="middle" class="mono"><text x="55" y="80">track</text><text x="178" y="80">queue</text><text x="300" y="80">send</text></g>
+  <circle cx="108" cy="75" r="3" fill="#5eead4"/><circle cx="236" cy="75" r="3" fill="#5eead4"/>
+  <text x="20" y="116" fill="#7796b0" font-size="12" class="mono">Browser → storage → your collector</text>
+</g>
+<rect x="36" y="197" width="118" height="30" rx="15" fill="#14253a" stroke="#2a4159"/><text x="95.0" y="217" text-anchor="middle" fill="#7fc4ff" font-size="14" class="mono">TypeScript</text><rect x="165" y="197" width="115" height="30" rx="15" fill="#14253a" stroke="#2a4159"/><text x="222.5" y="217" text-anchor="middle" fill="#91a9c4" font-size="14" class="mono">IndexedDB</text><rect x="291" y="197" width="135" height="30" rx="15" fill="#14253a" stroke="#2a4159"/><text x="358.5" y="217" text-anchor="middle" fill="#91a9c4" font-size="14" class="mono">npm package</text>
+</svg>

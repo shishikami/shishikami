@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title">
+<title id="title">shishikami — Building for the browser. Exploring React and Rust.</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e34"/><stop offset="1" stop-color="#090f1c"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7894b2" stroke-opacity=".07"/></pattern>
+</defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}@media(prefers-reduced-motion:reduce){.motion{animation:none!important}}</style>
+<rect x="1" y="1" width="1198" height="358" rx="22" fill="url(#bg)" stroke="#26374f"/>
+
+<rect x="1" y="1" width="1198" height="358" rx="22" fill="url(#grid)"/>
+<path d="M48 48H80" stroke="#5eead4" stroke-width="3"/>
+<text x="94" y="54" fill="#a9bfd6" font-size="17" letter-spacing="3" class="mono">SHISHIKAMI / OPEN SOURCE</text>
+<text x="48" y="150" fill="#f0f6fc" font-size="79" font-weight="700" letter-spacing="-4">shishikami<tspan fill="#5eead4">.</tspan></text>
+<text x="52" y="203" fill="#c3d2e5" font-size="27">Building for the browser.</text>
+<text x="52" y="242" fill="#8ba4bf" font-size="24">Curious about what happens underneath.</text>
+<text x="52" y="311" fill="#5eead4" font-size="18" class="mono">&gt; React + Rust / learn by building</text>
+<rect x="510" y="294" width="10" height="21" rx="1" fill="#5eead4"><animate attributeName="opacity" values="1;1;0;0" dur="1.6s" repeatCount="indefinite"/></rect>
+<g transform="translate(964 177)">
+  <circle r="127" fill="#0c1c2c" stroke="#294056"/>
+  <circle r="101" fill="none" stroke="#244052" stroke-dasharray="3 10"/>
+  <ellipse rx="127" ry="46" fill="none" stroke="#396a79" stroke-opacity=".6" transform="rotate(-35)"/>
+  <ellipse rx="127" ry="46" fill="none" stroke="#396a79" stroke-opacity=".6" transform="rotate(35)"/>
+  <path d="M0-77 67-38V39L0 78-67 39V-38Z M0-77V0L67 39 M-67-38 0 0 67-38 M0 0V78 M-67 39 0 0" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <circle r="7" fill="#5eead4"/>
+  <circle cx="105" cy="-71" r="5" fill="#5eead4"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/></circle>
+  <circle cx="-105" cy="71" r="4" fill="#60a5fa"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/></circle>
+</g>
+<text x="964" y="333" text-anchor="middle" fill="#7091ad" font-size="13" letter-spacing="3" class="mono">BUILD / BREAK / UNDERSTAND</text>
+
+</svg>
